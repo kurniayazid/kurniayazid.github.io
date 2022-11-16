@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+Ega Kurnia Yazid (he/him), or known as Ega, is an MA student in Quantitative Methods in the Social Sciences (QMSS) at [Columbia University in the City of New York](http://columbia.edu/) fully-funded by [Indonesia Endowment Fund for Education (LPDP)](https://lpdp.kemenkeu.go.id/en/) scholarship. Before this, he was a Research Assistant at the Department of Economics, and Research Fellow at the Disaster Management Research Unit (DMRU) Centre for Strategic and International Studies (CSIS). At CSIS, he actively took part in writing analysis on development economics, disaster economics, and policy analysis. Besides, he also served to help the Senior Advisor to the Minister of National Developing Planning, Republic of Indonesia for Social Affairs and Poverty Reduction in producing the evidence-based recommendations. Ega also has experience as an Economic Researcher at Tenggara Strategics—--a business and investment research and advisory institute founded by CSIS, The Jakarta Post, and Prasetiya Mulya University. As an economic researcher, he involved in wide-ranging economic-business or investment research projects from the gig economy to renewable energy investment. His research area includes development economics, environmental economics, health economics, disaster management, and digital economy. He received his bachelor’s degree in economics from Universitas Gadjah Mada, Indonesia in 2019 under supervision of Professor [Gumilang Aryo Sahadewo](https://scholar.google.co.id/citations?user=z3gqbiEAAAAJ&hl=en#d=gsc_md_fol&t=1668203386419).
 
-**Ega** Kurnia Yazid (he/him) was a Research Assistant at the Department of Economics, and Research Fellow at the Disaster Management Research Unit (DMRU) Centre for Strategic and International Studies (CSIS). At CSIS, he actively takes part in writing analysis on development economics, disaster economics, and policy analysis. Besides, he also serves to help the Senior Advisor to the Minister of National Developing Planning for Social Affairs and Poverty Reduction in producing the evidence-based recommendations. Prior to this, Ega was an Economic Researcher at Tenggara Strategics—a business and investment research and advisory institute founded by CSIS, The Jakarta Post, and Prasetiya Mulya University. As an economic researcher, he involved in wide-ranging economic-business or investment research projects from the gig economy to renewable energy investment. His research area includes development economics, environmental economics, health economics, disaster management, and digital economy. He received his bachelor’s degree in economics from Universitas Gadjah Mada, Indonesia. This year, he is going to take MA program in Columbia University, USA funded by LPDP scholarship.
-
-## **Main research interest:**
+## **Main research interests:**
 - Environment and health issues
-  > Air pollution, disasters, pandemic, and sustainable healthcare
+  > Air pollution, disasters, health pandemic, and sustainable healthcare
 - Development issues
   > Poverty, people with disabilities, inequality, economic growth, job creation / labor market, digital and gig economy
 

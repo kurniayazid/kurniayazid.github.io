@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Ega Kurnia Yazid"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
-  location         :
+  bio              : "MA student in Quantitative Methods in the Social Sciences at Columbia University."
+  location         : "New York City, USA"
   employer         :
-  pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "e.yazid@columbia.edu"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=uhMf_XAAAAAJ&hl=en"
+  email            : "yazidega@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,20 +97,19 @@ author:
   facebook         :
   foursquare       :
   github           : "kurniayazid"
-  gitlab           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "kurniayazid"
-  mastodon         : 
+  linkedin         : "https://www.linkedin.com/in/kurniayazid/"
+  orcid            : "http://orcid.org/0000-0002-5854-4620"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "@kurniayazid"
   vine             :
   weibo            :
   xing             :

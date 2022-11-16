@@ -2,7 +2,7 @@
 title: "Reforming Sustainable Healthcare System: Lesson Learned from Three Countries in ASEAN"
 collection: publications
 permalink: /publication/2021-reforming-sustainable-healthcare
-date: 2022-05-22
+date: 2021-31-12
 venue: 'CSIS Policy Brief'
 paperurl: 'https://mail.csis.or.id/download/410-post-2022-05-25-CSIS_Policy_Brief_Reforming_Sustainable_Healthcare_System_Lesson_Learned_from_Three_Countries_in_ASEAN.pdf'
 link: 'https://mail.csis.or.id/publications/reforming-sustainable-healthcare-system-lesson-learned-from-three-countries-in-asean'

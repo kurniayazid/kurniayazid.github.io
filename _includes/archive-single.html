@@ -46,15 +46,11 @@
     {% elsif post.collection == 'publications' %}
       
       {% if post.language %}
-        <p>
-        This paper is written in {{ post.language }}
-        </p>
-      {% endif %}
-
-      {% if post.origin %}
-        <p>
-        Original title: {{ post.origin }}
-        </p>
+        <details><summary>This paper is written in ({{ post.language }})</summary> 
+          <p>
+            Original title: {{ post.origin }}
+          </p>
+        </details>
       {% endif %}
 
       {% if post.abstract %}

@@ -1,5 +1,5 @@
 ---
-title: "Bouncing Back: An empirical evidence of the aggregate economic impact of disasters in Indonesia" 
+title: "Bouncing Back: an empirical evidence of the aggregate economic impact of disasters in Indonesia" 
 origin: "Bouncing Back: Sebuah Bukti Empiris Dampak Ekonomi Agregat dari Bencana Alam di Indonesia"
 language: "Bahasa Indonesia"
 collection: publications
@@ -9,7 +9,7 @@ venue: 'CSIS Working Paper'
 paperurl: 'https://www.jstor.org/stable/resrep28865'
 link: 'https://www.jstor.org/stable/pdf/resrep28865.pdf?refreqid=excelsior%3Aa2a348b466f07b31f76104f47609a5b1&ab_segments=&origin=&acceptTC=1'
 code: #'https://doi.org/10.7910/DVN/BEKPWV'
-citation: 'Yazid, Ega Kurnia, and Esa Azali Asyahid. <i>Bouncing Back: Sebuah Bukti Empiris Dampak Ekonomi Agregat dari Bencana Alam di Indonesia</i>. Centre for Strategic and International Studies, 2021. http://www.jstor.org/stable/resrep28865.'
+citation: 'Yazid, Ega Kurnia, and Esa Azali Asyahid. 2021. Bouncing Back: Sebuah Bukti Empiris Dampak Ekonomi Agregat dari Bencana Alam di Indonesia. <i>CSIS Working Paper</i>. Centre for Strategic and International Studies, Jakarta. http://www.jstor.org/stable/resrep28865.'
 abstract: 'Indonesia experiences a high frequency of disasters over the years which resulted in a devastating
 effect on both national and regional economies. Using the city-level data which consists of 497
 cities/regencies from 2011 to 2018 which retrieved from the disaster information database (DIBI) by

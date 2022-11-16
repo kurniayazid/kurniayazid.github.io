@@ -1,6 +1,7 @@
 ---
-title: "Bouncing Back: Sebuah Bukti Empiris Dampak Ekonomi Agregat dari Bencana Alam di Indonesia"
-abstract: "Bouncing Back: An empirical evidence of the aggregate economic impact of disasters in Indonesia" 
+title: "Bouncing Back: An empirical evidence of the aggregate economic impact of disasters in Indonesia" 
+origin: "Bouncing Back: Sebuah Bukti Empiris Dampak Ekonomi Agregat dari Bencana Alam di Indonesia"
+language: "Bahasa Indonesia"
 collection: publications
 permalink: /publication/2021-bouncing-back
 date: 2021-01-01

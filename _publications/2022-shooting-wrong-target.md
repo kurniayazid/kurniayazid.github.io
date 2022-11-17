@@ -17,7 +17,7 @@ existed and were distributed in each economic percentile for both programs. The
 estimation also shows that the inclusion error in the PKH program and BPNT are
 34.85% and 39.21%, respectively. In addition, the determinants of errors consisting of
 household characteristics and regional context are discussed. We also suggest the policy
-recommendations based on the results.
+recommendations based on the results. \\
 
-'Keywords : Social Assistance, Opportunity Loss, Poverty"
+Keywords : Social Assistance, Opportunity Loss, Poverty"
 ---

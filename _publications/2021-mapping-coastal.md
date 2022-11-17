@@ -4,7 +4,7 @@ origin: "Memetakan Kesejahteraan Dan Regenerasi Masyarakat Nelayan"
 language: "Bahasa Indonesia"
 collection: publications
 permalink: /publication/2022-mapping-coastal
-date: 2021-18-12
+date: 2021-12-18
 venue: 'Forum Masyarakat Statistik'
 paperurl: 'https://fmsindonesia.id/wp-content/uploads/2022/01/Buletin-18-FINAL.pdf'
 link: 'https://fmsindonesia.id/policy-brief/'

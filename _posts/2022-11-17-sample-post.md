@@ -1,7 +1,7 @@
 ---
 title: '5 reasons why I started to write blog posts'
 date: 2022-11-17
-permalink: /posts/2022/07/insufficient-data
+permalink: /posts/2022/07/5-reasons-why-blog
 excerpt_separator: <!--more-->
 toc: true
 tags:

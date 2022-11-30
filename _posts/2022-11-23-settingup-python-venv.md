@@ -12,9 +12,13 @@ tags:
   - vscode
   - virtual-environment
 ---
-![Photo by Kelvin Han on Unsplash][https://cdn-images-1.medium.com/max/1600/0*CHeZLTREb9TytmZu]
+![](https://cdn-images-1.medium.com/max/1600/0*CHeZLTREb9TytmZu)
+
+*Photo by Kelvin Han on Unsplash*
 
 I need to write this on a post because I keep forgetting this by the time I need to create a new python project. Plus, I always get confused when figuring out to set up a Python virtual environment, so I did my research and created new blog posts to help other students in understanding the virtual environment.
+
+<!--more-->
 
 To begin with, we should start with the definition. What kind of animal a virtual environment, or also known as venv/virtualenv, is? Let me answer this by giving you an example.
 
@@ -78,7 +82,7 @@ pyenv versions
 ```
 The code will generate output that looks like this:
 
-![image.png](images/posts/image.png)
+![](images/posts/image.png)
 
 From the terminal above, we can see that the available Python or pyenv versions are only two, which are `Python 3.9.1` and `Python 3.10.6` . You can specify the global Python version for your machine by implementing:
 
@@ -176,6 +180,7 @@ Hopefully, by following all the steps above, your python virtual environment sho
 ---
 
 Cheers,
+
 Ega Kurnia Yazid
 
 I welcome feedback and constructive criticism. To discuss further you can comment on each post, or you can reach me through any social media platforms you can find on my webpage.

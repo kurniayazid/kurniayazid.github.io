@@ -82,7 +82,7 @@ pyenv versions
 ```
 The code will generate output that looks like this:
 
-![](https://github.com/kurniayazid/kurniayazid.github.io/blob/master/images/posts/image.png)
+![](https://github.com/kurniayazid/kurniayazid.github.io/blob/master/images/posts/image.png?raw=true)
 
 From the terminal above, we can see that the available Python or pyenv versions are only two, which are `Python 3.9.1` and `Python 3.10.6` . You can specify the global Python version for your machine by implementing:
 

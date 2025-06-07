@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2022-fight-against-death-tolls
 date: 2022-01-01
 venue: 'CSIS Research Report'
+type: 'Report'
 paperurl: 'https://www.jstor.org/stable/pdf/resrep40571.pdf?refreqid=excelsior%3A373846ea77b4a10ad353730f1a644a52&ab_segments=&origin=&acceptTC=1'
 link: 'https://www.jstor.org/stable/resrep40571'
 code: #'https://doi.org/10.7910/DVN/BEKPWV'

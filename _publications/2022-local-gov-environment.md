@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2022-local-gov-environment
 date: 2022-12-31
 venue: 'AAERE'
+type: 'Work in Progress'
 paperurl:
 link: 
 code: #'https://doi.org/10.7910/DVN/BEKPWV'

@@ -6,6 +6,7 @@ collection: publications
 permalink: /publication/2022-adjusting-the-sails
 date: 2022-03-16
 venue: 'IDF 2022'
+type: 'Work in Progress'
 paperurl:
 link: 'https://www.youtube.com/watch?v=Wh0GUDa5RlE&ab_channel=BappenasRI'
 code: #'https://doi.org/10.7910/DVN/BEKPWV'

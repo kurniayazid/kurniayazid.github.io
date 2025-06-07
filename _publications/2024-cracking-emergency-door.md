@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2024-cracking-emergency-door
 date: 2025-06-01
 venue: 
+type: 'Work in Progress'
 paperurl:
 link: 
 code: 

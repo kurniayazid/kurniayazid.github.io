@@ -1,5 +1,5 @@
 ---
-title: "Shooting the Wrong Target: Estimating the Opportunity Loss from Inclusion Errors in Social Assistance Program" 
+title: "Cracking The Emergency Door: An Empirical Investigation of Economic Openness on The International Humanitarian Assistance" 
 collection: publications
 permalink: /publication/2024-cracking-emergency-door
 date: 2025-06-01
@@ -7,7 +7,7 @@ venue:
 paperurl:
 link: 
 code: 
-citation: '<i>Work in progress</i>
+citation: "<i>Work in progress</i>"
 abstract: "This study empirically investigates the impact of economic openness on the inflow
 of International Humanitarian Assistance (IHA) to countries experiencing crises.
 While previous research on economic openness and general foreign aid has yielded inconclusive

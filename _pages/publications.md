@@ -13,6 +13,16 @@ author_profile: true
 
 {% comment %}
 Group publications by type and sort by year
+Debug: Show all publication types found
+{% endcomment %}
+
+{% comment %}
+<p>Debug - Types found:</p>
+<ul>
+{% for pub in site.publications %}
+  <li>{{ pub.title }} - Type: "{{ pub.type }}"</li>
+{% endfor %}
+</ul>
 {% endcomment %}
 
 {% assign grouped_publications = site.publications | group_by: 'type' %}

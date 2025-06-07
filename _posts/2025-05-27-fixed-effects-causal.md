@@ -1,8 +1,8 @@
 ---
 title: 'Are fixed-effects models sufficient for causal inference?'
 subtitle: 'The only guidance that newbie needs'
-date: 2024-05-27
-permalink: /posts/2024/05/fixed-effects-causal
+date: 2025-05-27
+permalink: /posts/2025/05/fixed-effects-causal
 excerpt_separator: <!--more-->
 toc: true
 tags:
@@ -43,7 +43,7 @@ This article, thus attempts to answer such question by exploring the possible re
 ### A. General Setup
 To begin with, let's check the following general setup for FE model using typical panel datasets:
 
-![] (https://cdn-images-1.medium.com/max/800/1*fNuTqxgFC32voF8CTQRcDw.png)
+![](https://cdn-images-1.medium.com/max/800/1*fNuTqxgFC32voF8CTQRcDw.png)
 
 where y is the expected outcome, predicted by vector covariates x with coefficient β, fixed-effects term α, and error-term ϵ indexed at unit i time t.
 

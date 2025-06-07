@@ -11,34 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% comment %}
-Group publications by type and sort by year
-Debug: Show all publication types found
-{% endcomment %}
+{% assign grouped_pubs = site.publications | group_by: 'type' %}
 
-{% comment %}
-<p>Debug - Types found:</p>
-<ul>
-{% for pub in site.publications %}
-  <li>{{ pub.title }} - Type: "{{ pub.type }}"</li>
-{% endfor %}
-</ul>
-{% endcomment %}
-
-{% assign grouped_publications = site.publications | group_by: 'type' %}
-{% assign sorted_groups = grouped_publications | sort: 'name' %}
-
-{% for group in sorted_groups %}
-  {% assign sorted_posts = group.items | sort: 'date' | reverse %}
-  
-  {% if sorted_posts.size > 0 %}
-    <section class="publication-group">
-      <h2 class="archive__subtitle">{{ group.name | default: "Other Publications" }}</h2>
-      
-      {% for post in sorted_posts %}
-        {% include archive-single.html %}
-      {% endfor %}
-    </section>
+{% for group in grouped_pubs %}
+  {% if group.items.size > 0 %}
+    <h2>{{ group.name | default: "Other" }}</h2>
+    {% assign sorted_items = group.items | sort: 'date' | reverse %}
+    {% for post in sorted_items %}
+      {% include archive-single.html %}
+    {% endfor %}
   {% endif %}
-  
 {% endfor %}

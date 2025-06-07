@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-shooting-wrong-target
 date: 2022-12-25
 venue: 'IRSA 2022'
-type: 'Work in Progress'
+type: "Work in Progress"
 paperurl:
 link: 
 code: #'https://doi.org/10.7910/DVN/BEKPWV'

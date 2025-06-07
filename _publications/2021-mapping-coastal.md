@@ -6,7 +6,7 @@ collection: publications
 permalink: /publication/2022-mapping-coastal
 date: 2021-12-18
 venue: 'Forum Masyarakat Statistik'
-type: 'Publication in Bahasa Indonesia'
+type: "Publication in Bahasa Indonesia"
 paperurl: 'https://fmsindonesia.id/wp-content/uploads/2022/01/Buletin-18-FINAL.pdf'
 link: 'https://fmsindonesia.id/policy-brief/'
 code: #'https://doi.org/10.7910/DVN/BEKPWV'

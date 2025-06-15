@@ -5,11 +5,11 @@ permalink: /posts/2024/02/howto-respond-poll
 excerpt_separator: <!--more-->
 toc: true
 tags:
-  - python
-  - data-science
-  - setup
-  - vscode
-  - virtual-environment
+  - Elections
+  - Polling
+  - Research Methods
+  - Surveys
+  - Indonesia
 ---
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*rYcdaZBqAgPizabZ)
 *Photo by Elliott Stallion on Unsplash*
